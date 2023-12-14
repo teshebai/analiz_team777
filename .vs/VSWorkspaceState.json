@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.idea",
+    "\\work"
   ],
+  "SelectedNode": "\\work\\team_work777.py",
   "PreviewInSolutionExplorer": false
 }
